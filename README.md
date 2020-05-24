@@ -1,4 +1,4 @@
-# SWExACM-W-GitHub-Workshop-2020
+# SWExACM-W GitHub Workshop 2020
 
 This is a GitHub repository! This is one of the most popular tools for collaborative web development (at least for right now). The most important components of a repository are arguably the main "code overview" page where you can click into the various files and examine their conents, and the commit history where you can view all the changes collaborators have made to the code.
 
