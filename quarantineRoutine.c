@@ -50,6 +50,6 @@ int main(int argc, char* argv[]) {
 	}
 
 	if(strncmp(argv[1], "up2you", 6) == 0) {
-		// Fill this in with your own code!
+		fprintf(stdout, "hi\n");
 	}
 }
